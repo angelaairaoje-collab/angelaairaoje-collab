@@ -1,3 +1,5 @@
+**Hi there!👋🏽**
+
 I´m Angela, a Software Tester/Quality Assurance Engineer.
 
 My journey into Software Testing is built on a strong foundation in Quality Assurance from the laboratory, where my meticulous approach to quality, documentation, analytical thinking and problem-solving stems from. 
